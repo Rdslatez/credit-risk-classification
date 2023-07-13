@@ -19,6 +19,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
+Accuracy:
 ![image](https://github.com/Rdslatez/credit-risk-classification/assets/124850150/56db71a9-b426-48ab-9aab-1d7d1edd0f01)
 ![image](https://github.com/Rdslatez/credit-risk-classification/assets/124850150/9ed8572c-6e8d-4091-8f50-d7c6d016b248)
 
@@ -27,6 +28,7 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
+Accuracy:
   ![image](https://github.com/Rdslatez/credit-risk-classification/assets/124850150/ed90682a-8c03-4928-aa49-eddafa16924a)
   ![image](https://github.com/Rdslatez/credit-risk-classification/assets/124850150/f0abbf59-0476-4797-9001-68bedddb5c10)
 
